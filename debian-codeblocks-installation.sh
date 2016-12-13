@@ -1,4 +1,3 @@
-echo "d
 apt-get -y install git
 apt-get -y update
 apt-get -y -f install
